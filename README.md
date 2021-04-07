@@ -1,4 +1,4 @@
-# README
+# Sentiment Prediction Model
 
 ## Description
 
